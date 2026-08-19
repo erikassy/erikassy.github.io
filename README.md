@@ -14,12 +14,12 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
+### RFM ANALYSIS & CUSTOMER SEGMENTATION
 *This project analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) analysis to evaluate customer value and engagement. Customers are segmented based on their purchasing patterns to identify high-value, loyal, at-risk, and inactive customers. The analysis aims to help the business understand its customer base and develop more targeted retention and marketing strategies.*
 
 *Tools Used: Power Query & Power BI*
 
-*Key Insight:
+*Key Insights:
 30 customers were identified as at-risk, requiring retention efforts.*
 
 *RFM analysis revealed clear differences in customer value and purchasing behavior.*
