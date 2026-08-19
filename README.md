@@ -1,18 +1,14 @@
 # Erika Enemenaye - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+## About
 
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
+This portfolio is designed to demonstrate my skills in:
 - Data visualization and storytelling
 - Data modeling and analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
 ## 🚀 Projects
-
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### RFM ANALYSIS & CUSTOMER SEGMENTATION
 *This project analyzes customer purchasing behavior using RFM (Recency, Frequency, Monetary) analysis to evaluate customer value and engagement. Customers are segmented based on their purchasing patterns to identify high-value, loyal, at-risk, and inactive customers. The analysis aims to help the business understand its customer base and develop more targeted retention and marketing strategies.*
@@ -34,8 +30,6 @@ This template is set up to showcase your best work. You can easily customize the
 
 
 ## 🛠️ Skills
-
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Power BI
 - **Data Analysis**: Excel, SQL, Power BI, Python (Pandas)
