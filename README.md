@@ -22,8 +22,15 @@ This portfolio is designed to demonstrate my skills in:
 
 *The business has a customer retention challenge, highlighting the need for targeted engagement strategies.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### TRADEZONE SQL DATA ANALYSIS
+*The TradeZone SQL project is a data analysis project focused on exploring and analyzing business data to uncover meaningful patterns and support data-driven decision-making.*
+
+*The analysis covers areas such as sales performance, customer behavior, product performance, revenue trends, and overall business performance.*
+
+*Tools Used: SQL*
+
+*Insights:*
+
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
