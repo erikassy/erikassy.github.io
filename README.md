@@ -29,7 +29,7 @@ This portfolio is designed to demonstrate my skills in:
 
 *Tools Used: SQL*
 
-*Insights:*
+*Key Insights:*
 
 
 ### Project Title Three
